@@ -1,0 +1,13 @@
+{
+  "name": "9squares",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^10.0.2"
+  }
+}
